@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" alt="Gymprogram logo" width="300"/>
+  <img src="screenshots/logo.jpg" alt="Gymprogram logo" width="300"/>
 </p>
 
 # Gymprogram — Databasprojekt
