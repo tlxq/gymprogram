@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="screenshots/logo.png" alt="Gymprogram logo" width="300"/>
+</p>
+
 # Gymprogram — Databasprojekt
 
 Mitt skolprojekt som modellerar ett gymprogram-system i både **MariaDB (SQL)** och **MongoDB (NoSQL)**.
