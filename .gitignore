@@ -1,0 +1,5 @@
+*.bak
+*.txt
+memory/
+build_odt.py
+build_odt_v2.py
